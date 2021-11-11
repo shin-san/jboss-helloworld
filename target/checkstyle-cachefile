@@ -1,0 +1,5 @@
+#Thu Nov 11 10:43:54 AEST 2021
+configuration*?=3E43C39BD6FC472AD3BAB486AB49687443E3F8AA
+module-resource*?\:/wildfly-checkstyle/suppressions.xml=DD3FD5987C62C3034A4613F83C42B24683BCFC2E
+C\:\\Users\\JC\\Documents\\dev-projects\\jboss-quickstarts\\jboss-eap-7.4.0-quickstarts\\jboss-eap-7.4.0.GA-quickstarts\\helloworld\\src\\main\\java\\org\\jboss\\as\\quickstarts\\helloworld\\HelloWorldServlet.java=1624427608000
+C\:\\Users\\JC\\Documents\\dev-projects\\jboss-quickstarts\\jboss-eap-7.4.0-quickstarts\\jboss-eap-7.4.0.GA-quickstarts\\helloworld\\src\\main\\java\\org\\jboss\\as\\quickstarts\\helloworld\\HelloService.java=1624427608000
